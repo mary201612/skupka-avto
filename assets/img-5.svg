@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#374151"/>
+  </linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g fill="none" stroke="#FF5A1F" stroke-width="8" stroke-linecap="round">
+    <path d="M180 520 q40 -120 180 -140 h340 q120 20 180 140"/>
+    <circle cx="360" cy="560" r="70"/><circle cx="840" cy="560" r="70"/>
+    <path d="M300 470 h600"/>
+  </g>
+  <text x="600" y="700" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#fff" text-anchor="middle">🛠 Фото 5</text>
+  <text x="600" y="760" font-family="Arial, sans-serif" font-size="26" fill="#9CA3AF" text-anchor="middle">замените на своё фото (см. KAK-DOBAVIT-FOTO.txt)</text>
+</svg>
