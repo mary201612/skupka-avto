@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mary201612.github.io/skupka-avto/sitemap.xml
